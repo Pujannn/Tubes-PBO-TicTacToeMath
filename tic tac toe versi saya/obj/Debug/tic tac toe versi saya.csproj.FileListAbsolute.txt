@@ -1,0 +1,11 @@
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic tac toe versi saya.csproj.AssemblyReference.cache
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic_tac_toe_versi_saya.Properties.Resources.resources
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic tac toe versi saya.csproj.GenerateResource.cache
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic tac toe versi saya.csproj.CoreCompileInputs.cache
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\bin\Debug\tic tac toe versi saya.exe.config
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\bin\Debug\tic tac toe versi saya.exe
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\bin\Debug\tic tac toe versi saya.pdb
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic_tac_toe_versi_saya.Form1.resources
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic tac toe versi saya.exe
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic tac toe versi saya.pdb
+C:\Users\fauza\source\repos\tic tac toe versi saya\tic tac toe versi saya\obj\Debug\tic_tac_toe_versi_saya.SplashScreen.resources
